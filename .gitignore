@@ -1,3 +1,21 @@
-.obsidian/plugins/*/data.json 
-.trash 
-workspace 
+# Obsidian-specific
+.obsidian/workspace.json
+.obsidian/plugins/*/data.json
+.trash/
+workspace
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs and temporary
+*.log
+*.tmp
+
+# Node.js or build tools (якщо будеш додавати скрипти)
+node_modules/
+dist/
