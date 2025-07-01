@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_KnowledgeBase/Obsidian/Plan and general information/System Obsidian.md",
+                "file": "03_KnowledgeBase/Obsidian/GitHub/settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Obsidian"
+              "title": "settings"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "d8cb3c3d8b2cf279",
   "lastOpenFiles": [
+    "03_KnowledgeBase/Obsidian/Plan and general information/System Obsidian.md",
+    "03_KnowledgeBase/Obsidian/GitHub/settings.md",
+    "03_KnowledgeBase/Obsidian/GitHub",
     "03_KnowledgeBase/Obsidian/Plagins/QuickAdd/Settings.md",
     "03_KnowledgeBase/Obsidian/Plagins/Dataview/Dataview – for table.md",
     "03_KnowledgeBase/Obsidian/Plagins/QuickAdd",
@@ -200,14 +203,12 @@
     "00_Inbox/Explanation.md",
     "02_Progects/today projects",
     "03_KnowledgeBase/Obsidian/Plagins/Turn on  (Увімкни) Community Plugins.md",
-    "03_KnowledgeBase/Obsidian/Plan and general information/System Obsidian.md",
     "03_KnowledgeBase/Obsidian/Plan and general information",
     "03_KnowledgeBase/Obsidian/Plagins/Templater",
     "03_KnowledgeBase/Obsidian/Plagins",
     "03_KnowledgeBase/Obsidian",
     "03_KnowledgeBase/Obsidian.md",
     "04_Journal/Diary ().md",
-    "Welcome.md",
-    "Templates"
+    "Welcome.md"
   ]
 }
